@@ -10,7 +10,7 @@ This repo holds all the tutorials and demos related to my LinkedIn posts, Talks,
 
 ## Examples
 
-- Configuración API de GROQ y guía-rápida/Setting up GROQ API key and quick-start
+- Configuración API de GROQ y guía-rápida/Setting up GROQ API key and quick-start ([aquí/here](https://github.com/lucasmengual92/tutorials/tree/main/tutorials/setting_up_groq_api_key))
 - Streamlit Chat UI con GROQ [próximamente/comming soon]
 
 ## License
