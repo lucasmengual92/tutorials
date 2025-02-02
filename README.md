@@ -12,7 +12,7 @@ Este repositorio contiene todos los tutoriales y demostraciones relacionados con
 
 MIT License
 
-Copyright (c) 2024 Lucas Mengual ([view](LICENSE))
+Copyright (c) 2025 Lucas Mengual ([view](LICENSE))
 
 ## Credits
 
