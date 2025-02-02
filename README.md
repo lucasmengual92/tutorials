@@ -6,7 +6,7 @@ Este repositorio contiene todos los tutoriales y demostraciones relacionados con
 
 - Configuración API de GROQ y guía-rápida ([aquí](https://github.com/lucasmengual92/tutorials/blob/main/tutorials/setting_up_groq_api_key/0_configuracion_groq_api_key_y_guia_rapida.ipynb))
 - Streamlit Chat UI con GROQ [próximamente]
-- Validación de datos Titanic con DQX ([aquí](https://github.com/lucasmengual92/tutorials/blob/main/tutorials/setting_up_groq_api_key/1_dqx_titanic_sql_rule_validation.ipynb)) 
+- Validación de datos Titanic con DQX ([aquí](https://github.com/lucasmengual92/tutorials/blob/main/tutorials/dqx_titanic_sql_rule/0_dqx_titanic_sql_rule_validation.ipynb)) 
 
 ## License
 
