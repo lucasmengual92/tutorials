@@ -4,8 +4,9 @@ Este repositorio contiene todos los tutoriales y demostraciones relacionados con
 
 ## Ejemplos
 
-- Configuración API de GROQ y guía-rápida ([aquí](https://github.com/lucasmengual92/tutorials/blob/main/tutorials/setting_up_groq_api_key/configuracion_groq_api_key_y_guia_rapida.ipynb))
+- Configuración API de GROQ y guía-rápida ([aquí](https://github.com/lucasmengual92/tutorials/blob/main/tutorials/setting_up_groq_api_key/0_configuracion_groq_api_key_y_guia_rapida.ipynb))
 - Streamlit Chat UI con GROQ [próximamente]
+- Validación de datos Titanic con DQX ([aquí]()) 
 
 ## License
 
